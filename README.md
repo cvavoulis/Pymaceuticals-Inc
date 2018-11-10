@@ -5,10 +5,10 @@ For this assignment, we were tasked to analyze the data from a drug trial on mic
 
 I performed the following:
 
-* Creating a scatter plot that shows how the tumor volume changes over time for each treatment.
-* Creating a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
-* Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
-* Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
+* Created a scatter plot that shows how the tumor volume changes over time for each treatment.
+* Created a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
+* Created a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+* Created a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 
 # Prerequisites
 The source data files, clinicaltrial_data.csv and mouse_drug_data.csv, are located in the data folder in this repository and are required for the Jupyter notebook to run. 
