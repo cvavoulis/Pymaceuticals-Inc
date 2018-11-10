@@ -14,9 +14,9 @@ I performed the following:
 The source data files, clinicaltrial_data.csv and mouse_drug_data.csv, are located in the data folder in this repository and are required for the Jupyter notebook to run. 
 
 # Built With
-Jupyter Notebook
-Pandas
-Matplotlib Pyplot
+* Jupyter Notebook
+* Pandas
+* Matplotlib Pyplot
 
 # Authors
 Christina Vavoulis
